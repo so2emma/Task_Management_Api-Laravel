@@ -3,7 +3,7 @@
 ## USER AUTHENTICATION
 
 ### Login
-POST: ({{localhost}}/api/login)
+**POST:** []({{localhost}}/api/login)
 
 ### Register
 POST: {{localhost}}/api/register
