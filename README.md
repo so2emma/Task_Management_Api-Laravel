@@ -3,27 +3,27 @@
 ## USER AUTHENTICATION
 
 ### Login
-**POST:** <mark> {{localhost}}/api/login </mark>
+**POST:**  {{localhost}}/api/login
 
 ### Register
-POST: {{localhost}}/api/register
+**POST:**  {{localhost}}/api/register
 
 ### logout
-POST: {{localhost}}/api/logout
+**POST:**  {{localhost}}/api/logout
 
 ### TASK MANAGEMENT
 
 ### Get all tasks
-GET: {{localhost}}/api/tasks
+**GET:**  {{localhost}}/api/tasks
 
 ### Create new task
-POST: {{localhost}}/api/tasks
+**POST:**  {{localhost}}/api/tasks
 
 ### Update task
-PATCH: {{localhost}}/api/tasks/{{task_id}}
+**PATCH:**  {{localhost}}/api/tasks/{{task_id}}
 
 ### Find task
-GET: {{localhost}}/api/tasks/{{task_id}}
+**GET:**  {{localhost}}/api/tasks/{{task_id}}
 
 ### Delete Task
-DELETE: {{localhost}}/api/tasks/{{task_id}}
+**DELETE:**  {{localhost}}/api/tasks/{{task_id}}
