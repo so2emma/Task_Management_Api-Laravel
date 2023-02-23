@@ -1,29 +1,29 @@
 ## TASK MANAGEMENT SYSTMEM (API)
 
-#USER AUTHENTICATION
+# USER AUTHENTICATION
 
-#Login
+# Login
 POST: {{localhost}}/api/login
 
-#Register
+# Register
 POST: {{localhost}}/api/register
 
-#logout
+# logout
 POST: {{localhost}}/api/logout
 
-#TASK MANAGEMENT
+# TASK MANAGEMENT
 
 #Get all tasks
 GET: {{localhost}}/api/tasks
 
-#Create new task
+# Create new task
 POST: {{localhost}}/api/tasks
 
-#Update task
+# Update task
 PATCH: {{localhost}}/api/tasks/{{task_id}}
 
-#Find task
+# Find task
 GET: {{localhost}}/api/tasks/{{task_id}}
 
-#Delete Task
+# Delete Task
 DELETE: {{localhost}}/api/tasks/{{task_id}}
